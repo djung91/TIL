@@ -1,6 +1,6 @@
 # Expression body in C#
 
-Expression body definitions let you provide a member's implementation in a ** very concise, readable form. **
+Expression body definitions let you provide a member's implementation in a **very concise, readable form.**
 
 it supports in over C# 6.0, expecially memeber of Constructor is supported in C# 7.0
 
